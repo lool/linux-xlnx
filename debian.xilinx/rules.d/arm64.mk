@@ -1,4 +1,6 @@
 skipabi         = true
+skipmodule      = true
+skipretpoline   = true
 
 human_arch	= ARMv8
 build_arch	= arm64
